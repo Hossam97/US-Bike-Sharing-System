@@ -1,2 +1,2 @@
 # US-Bike-Sharing-System
-Exploring a bike share system dataset.
+[Motivate](https://www.motivateco.com/) .
